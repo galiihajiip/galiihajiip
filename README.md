@@ -83,7 +83,7 @@ No activity tracked
 ### 🐍 Contribution Snake
 <p align="center">
   <!-- file svg akan dibuat otomatis oleh workflow snake -->
-  <img src="https://raw.githubusercontent.com/USERNAME_KAMU/USERNAME_KAMU/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/galiihajiip/galiihajiip/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
