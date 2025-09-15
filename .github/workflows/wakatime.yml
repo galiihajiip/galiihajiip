@@ -1,8 +1,9 @@
 name: Update WakaTime
 
 on:
-  schedule: [{ cron: "0 6 * * 1" }]   # tiap Senin 13:00 WIB kurang-lebih
-  workflow_dispatch:
+  push:                       # ← biar langsung jalan saat ada commit
+  workflow_dispatch:          # ← bisa klik "Run workflow"
+  schedule: [{ cron: "0 6 * * 1" }]   # tiap Senin 13:00 WIB kira-kira (UTC+7)
 
 jobs:
   update-readme:
