@@ -69,6 +69,13 @@
 ### ⏱️ Weekly coding time
 <!-- Bagian ini akan diisi otomatis oleh workflow WakaTime -->
 <!--START_SECTION:waka-->
+
+```txt
+From: 08 September 2025 - To: 15 September 2025
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
