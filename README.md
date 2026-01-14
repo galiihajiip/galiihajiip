@@ -20,7 +20,7 @@
 ---
 
 ### 👤 About me
-- 🎯 Fokus: Web Dev, C/C++, data basics, AI/ML 
+- 🎯 Fokus: Web Dev, AI/ML Engineer 
 - 🧪 Suka eksperimen: small utilities, dashboards, automation  
 - 🌱 Belajar berkelanjutan & *shipping* proyek yang bermanfaat
 
