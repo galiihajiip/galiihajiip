@@ -21,7 +21,7 @@
 
 ### 👤 About me
 - 🎯 Fokus: Web Dev, AI/ML Engineer 
-- 🧪 Suka eksperimen: small utilities, dashboards, automation  
+- 🧪 Suka eksperimen: small utilities, dashboards, AI automation  
 - 🌱 Belajar berkelanjutan & *shipping* proyek yang bermanfaat
 
 ---
