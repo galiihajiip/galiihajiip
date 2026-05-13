@@ -55,13 +55,22 @@
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=galiihajiip&theme=tokyonight&no-frame=true&margin-w=15" alt="galiihajiip's Trophies" />
+  </a>
+</p>
+
+---
+
 ### 📈 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=galiihajiip&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=galiihajiip&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="160" />
   <img src="https://streak-stats.demolab.com?user=galiihajiip&theme=tokyonight&hide_border=true" height="160" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galiihajiip&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galiihajiip&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5" height="160" />
 </p>
 
 ---
@@ -88,7 +97,18 @@ No activity tracked
 
 ---
 
-### 📬 Get in touch
+### � Quote of the Day
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Programming Quotes" />
+  </a>
+</p>
+
+---
+
+### �📬 Get in touch
 - Email: **EMAIL_KAMU@example.com**  
 - LinkedIn: **https://linkedin.com/in/galiihajiip**  
 - Instagram: **https://instagram.com/galiihajiip**
+
+
