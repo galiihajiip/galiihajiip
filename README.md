@@ -79,6 +79,20 @@ galiihajiip:
 
 ---
 
+### ⏱️ Weekly coding time
+<!-- Bagian ini akan diisi otomatis oleh workflow WakaTime -->
+<!--START_SECTION:waka-->
+
+```txt
+From: 05 May 2026 - To: 12 May 2026
+
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
+
+---
+
 ### 🐍 Contribution Snake
 <p align="center">
   <!-- GitHub Action generated Snake -->
