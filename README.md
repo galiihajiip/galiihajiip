@@ -25,7 +25,7 @@ galiihajiip:
   roles: 
     - Web Developer
     - AI/ML Engineer Enthusiast
-  loves: [small utilities, dashboards, AI automation]
+  loves: [small utilities, dashboard, AI automation]
   goals: "Belajar berkelanjutan & shipping proyek yang bermanfaat"
 `
 
