@@ -5,10 +5,6 @@
 
 <div align="center">
 
-<!-- ┌─────────────────────────── BANNER ─────────────────────────────────────┐ -->
-<img src="https://media1.tenor.com/m/xR0yv83wOIIAAAAC/kazuscara-hoyofair.gif"
-     width="100%" alt="KazuScara · HoyoFair" />
-
 <br/><br/>
 
 <!-- ┌───────────────────────── TYPING TAGLINE ───────────────────────────────┐ -->
