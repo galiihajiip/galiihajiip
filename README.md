@@ -53,7 +53,7 @@
 | `Name` | Galih Aji Pangestu|
 | `Location` | Surabaya, East Java, Indonesia |
 | `Roles` | Full Stack Web Developer & AI Enthusiast |
-| `Major` | Informatics Undergraduate @ UPN "Veteran" Jawa Timur (3.81/4.00) |
+| `Major` | Informatics Undergraduate @ UPN "Veteran" Jawa Timur |
 | `Status` | `Seeking Internship` ➔ Full-Stack Web Developer |
 | `Email` | `galihajip.pro@gmail.com` |
 
