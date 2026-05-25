@@ -21,9 +21,15 @@
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-galiihajiip-0077b5?style=for-the-badge&labelColor=1E1432&logo=linkedin&logoColor=white)](https://linkedin.com/in/galiihajiip)
 &nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-galiihajiip-E4405F?style=for-the-badge&labelColor=1E1432&logo=instagram&logoColor=white)](https://instagram.com/galiihajiip)
+&nbsp;
 [![GitHub Followers](https://img.shields.io/github/followers/galiihajiip?style=for-the-badge&label=FOLLOWERS&logo=github&color=6F4F8A&labelColor=1E1432)](https://github.com/galiihajiip?tab=followers)
 &nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=galiihajiip&style=for-the-badge&color=8B6FBF&label=PROFILE+VIEWS)](https://github.com/galiihajiip)
+&nbsp;
+[![Medium](https://img.shields.io/badge/Medium-Article-12100E?style=for-the-badge&labelColor=1E1432&logo=medium&logoColor=white)](#)
+&nbsp;
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=for-the-badge&labelColor=1E1432&logo=google-scholar&logoColor=white)](https://scholar.google.com/)
 &nbsp;
 [![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/galiihajiip&query=public_repos&style=for-the-badge&label=PUBLIC+REPOS&color=C0A0E8&labelColor=1E1432)](https://github.com/galiihajiip?tab=repositories)
 
@@ -47,7 +53,7 @@
 | `Name` | Galih Aji Pangestu|
 | `Location` | Surabaya, East Java, Indonesia |
 | `Roles` | Full Stack Web Developer & AI Enthusiast |
-| `Major` | Informatics Undergraduate @ UPN "Veteran" Jawa Timur |
+| `Major` | Informatics Undergraduate @ UPN "Veteran" Jawa Timur (3.81/4.00) |
 | `Status` | `Seeking Internship` ➔ Full-Stack Web Developer |
 | `Email` | `galihajip.pro@gmail.com` |
 
